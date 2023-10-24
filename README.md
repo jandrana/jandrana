@@ -1,4 +1,4 @@
-
+<h1 align="center"><img src=".github/banner1.png" alt="Profile banner"/></h1>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1000&color=9F0E97&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Jandrana;Welcome+to+my+github!" alt="Typing SVG" /></a></p>
 
