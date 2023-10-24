@@ -1,8 +1,8 @@
 <h1 align="center"><img src=".github/banner1.png" alt="Profile banner"/></h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1000&color=9F0E97&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Jandrana;Welcome+to+my+github!" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1000&color=AD75E2&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Jandrana;Welcome+to+my+github!" alt="Typing SVG" /></a></p>
 
-🌱 I'm currently a student at [42 Malaga](https://42malaga.com/). My passion lies in coding, from developing challenging C projects to creating engaging web pages for touristic apartments or creating different virtual environments depending on my specific needs.
+🎯 I'm currently a student at [42 Malaga](https://42malaga.com/). My passion lies in coding, from developing challenging C projects to creating engaging web pages for touristic apartments or creating different virtual environments depending on my specific needs.
 
 👩‍💻 In my public repository, [42Cursus](https://github.com/jandrana/42Cursus), you can track my progress and check out the work I'm doing during my 42 journey.
 
