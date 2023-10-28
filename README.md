@@ -4,7 +4,7 @@
 
 🎯 I'm currently a student at [42 Malaga](https://42malaga.com/). My passion lies in coding, from developing challenging C projects to creating engaging web pages for touristic apartments or creating different virtual environments depending on my specific needs.
 
-👩‍💻 In my public repository, [42Cursus](https://github.com/jandrana/42Cursus), you can track my progress and check out the work I'm doing during my 42 journey.
+👩‍💻 In my public repository, [42 Cursus](https://github.com/jandrana/42-Cursus), you can track my progress and check out the work I'm doing during my 42 journey.
 
 
 ### Skills and knowledge
