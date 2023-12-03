@@ -2,16 +2,42 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1000&color=AD75E2&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Jandrana;Welcome+to+my+github!" alt="Typing SVG" /></a></p>
 
+```c
+#include <stdbool.h>
+
+int  main(void)
+{
+    struct  about_me jandrana = {
+      .name = "Ana Alejandra Castillejo",
+      .pronouns = {"she", "her"},
+      .age = 21,
+      .student = true,
+      .hired = false,
+      .contact = "yo@anaalejandra.com"
+    };
+
+    struct  student my_studies = {
+      .is_student = true,
+      .status = {"42 Student", "Codecademy", "HackTheBox", "LeetCode"},
+      .campus_42 = "Málaga",
+      .login_42 = "ana-cast",
+      .codecademy_url = "https://www.codecademy.com/profiles/jandrana"
+    };
+
+    return (0);
+}
+```
+
+### Present 
+
 🎯 I'm currently a student at [42 Malaga](https://42malaga.com/). My passion lies in coding, from developing challenging C projects to creating engaging web pages for touristic apartments or creating different virtual environments depending on my specific needs.
 
 👩‍💻 In my public repository, [42 Cursus](https://github.com/jandrana/42-Cursus), you can track my progress and check out the work I'm doing during my 42 journey.
 
+📚 Currently, I'm starting to dive into the cybersecurity world through platforms like [Hack The Box](https://www.hackthebox.eu/), and improving my skills in different programming languages with platforms like [Codecademy](https://www.codecademy.com/profiles/jandrana).
 
 ### Skills and knowledge
 
-📚 Currently, I'm starting to dive into the cybersecurity world through platforms like [Hack The Box](https://www.hackthebox.eu/), and improving my skills in the C programming language.
-
-Here's a more detailed table of my skills:
 |  | Experience with |
 |-----------------|-------------------|
 | Languages       | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
@@ -26,5 +52,13 @@ Here's a more detailed table of my skills:
 🚀 My future plans include improving and diving deeper in all my current skills and learning the basic of new ones like PHP, JavaScript, different fron-end frameworks and exploring the world of API usage to build more dynamic and interactive web applications.
 
 In the following weeks I will upload and add here my portfolio website, feel free to come check it when is finished!
+
+### Statistics
+
+<p align="center">
+  <img src="https://github.com/jandrana/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/jandrana/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jandrana&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=AD75E2&fire=AD75E2&currStreakNum=AD75E2EB&sideLabels=AD75E2&currStreakLabel=AD75E2&sideNums=AD75E2&dates=424242" alt="GitHub Streak" /></a>
+</p>
 
 <h6 align="center">Thank you for visiting my GitHub profile! Let's learn and code together. 🚀</h6>
