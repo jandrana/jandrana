@@ -27,6 +27,7 @@ jobs:
           SHOW_LOC_CHART: false
           IGNORED_REPOS: "github-stats, 42-project-badges"
           IGNORED_LANGUAGES: YAML JSON TOML # optional
+          SHOW_UPDATED_DATE: false
           ### commit
           COMMIT_BY_ME: true
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
