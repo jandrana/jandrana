@@ -17,13 +17,14 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: -> # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_LANGUAGE_PER_REPO: false
           SHOW_COMMIT: true
           SHOW_DAYS_OF_WEEK: true
           SHOW_LANGUAGE: true
           SHOW_OS: true
           SHOW_PROJECTS: true
+          SHOW_LOC_CHART: false
           SHOW_LANGUAGE_PER_REPO: true
           IGNORED_REPOS: "github-stats, 42-project-badges"
           IGNORED_LANGUAGES: YAML JSON TOML # optional
