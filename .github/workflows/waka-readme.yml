@@ -25,7 +25,6 @@ jobs:
           SHOW_OS: true
           SHOW_PROJECTS: true
           SHOW_LOC_CHART: false
-          SHOW_LANGUAGE_PER_REPO: true
           IGNORED_REPOS: "github-stats, 42-project-badges"
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
