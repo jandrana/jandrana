@@ -148,6 +148,61 @@ In the following weeks I will upload and add here my portfolio website, feel fre
 
 <!-- Waka Generated Statistics-->
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 14.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 141 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+🌆 Daytime                135 commits         ██████████░░░░░░░░░░░░░░░   41.54 % 
+🌃 Evening                138 commits         ███████████░░░░░░░░░░░░░░   42.46 % 
+🌙 Night                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Wednesday                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Thursday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Friday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 15/05/2024 15:02:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- OTHER GITHUB STATISTICS -->
