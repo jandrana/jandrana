@@ -45,7 +45,94 @@ int  main(void)
 
 📚 Currently, I'm starting to dive into the cybersecurity world through platforms like [Hack The Box](https://www.hackthebox.eu/), and improving my skills in different programming languages with platforms like [Codecademy](https://www.codecademy.com/profiles/jandrana).
 
-### Skills and knowledge
+<!-- Future (markdown)
+### Future
+🚀 My future plans include improving and diving deeper in all my current skills and learning the basic of new ones like PHP, JavaScript, different fron-end frameworks and exploring the world of API usage to build more dynamic and interactive web applications.
+
+In the following weeks I will upload and add here my portfolio website, feel free to come check it when is finished!
+-->
+
+<!-- Github Statistics -->
+
+### Github Statistics
+<!-- GITHUB STATISTICS -->
+<div align="center">
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+    <img src="https://github.com/jandrana/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/jandrana/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    <img src="https://github.com/jandrana/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+    <img src="https://github.com/jandrana/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=jandrana&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=AD75E2&fire=AD75E2&currStreakNum=AD75E2EB&sideLabels=AD75E2&currStreakLabel=AD75E2&sideNums=AD75E2&dates=424242" alt="GitHub Streak" />
+    </a>
+</div>
+
+<br><details>
+  <summary><b>📊 View my WakaTime Statistics</b></summary><br>
+
+<!-- Waka Generated Statistics-->
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 14.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 145 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+🌆 Daytime                139 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
+🌃 Evening                138 commits         ██████████░░░░░░░░░░░░░░░   41.95 % 
+🌙 Night                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Thursday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+<!--END_SECTION:waka-->
+</details><br>
+
+<details>	
+  <summary><b>🖥 View my Skills and Knowledge</b></summary><br>
 
 <!-- Table made with HTML -->
 <table>
@@ -136,86 +223,6 @@ int  main(void)
 | Other           | ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge) |
 | Education       | ![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A) ![Hack The Box Badge](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge)     |
 -->
-
-<!-- Future (markdown) -->
-### Future
-🚀 My future plans include improving and diving deeper in all my current skills and learning the basic of new ones like PHP, JavaScript, different fron-end frameworks and exploring the world of API usage to build more dynamic and interactive web applications.
-
-In the following weeks I will upload and add here my portfolio website, feel free to come check it when is finished!
-
-<!-- Github Statistics -->
-### Statistics
-
-<!-- Waka Generated Statistics-->
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 14.5 kB Used in GitHub's Storage 
- > 
-> 🏆 145 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-🌆 Daytime                139 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
-🌃 Evening                138 commits         ██████████░░░░░░░░░░░░░░░   41.95 % 
-🌙 Night                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Thursday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
-
-<!-- OTHER GITHUB STATISTICS -->
-<div align="center">
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-    <img src="https://github.com/jandrana/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://github.com/jandrana/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-    <img src="https://github.com/jandrana/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-    <img src="https://github.com/jandrana/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=jandrana&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=AD75E2&fire=AD75E2&currStreakNum=AD75E2EB&sideLabels=AD75E2&currStreakLabel=AD75E2&sideNums=AD75E2&dates=424242" alt="GitHub Streak" />
-    </a>
-</div>
+</details>
 <!-- Footer -->
 <h6 align="center">Thank you for visiting my GitHub profile! Let's learn and code together. 🚀</h6>
