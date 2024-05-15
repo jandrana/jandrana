@@ -159,5 +159,8 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
     </a>
 </div>
 
+<!-- Waka Generated Statistics-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!-- Footer -->
 <h6 align="center">Thank you for visiting my GitHub profile! Let's learn and code together. 🚀</h6>
