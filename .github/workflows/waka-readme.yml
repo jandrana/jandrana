@@ -29,7 +29,6 @@ jobs:
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           SHOW_UPDATED_DATE: false
           ### commit
-          COMMIT_BY_ME: true
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          COMMIT_MESSAGE: Updated waka readme stats # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
