@@ -33,5 +33,3 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
-          AUTHOR_NAME: Ana Alejandra Castillejo # optional
-          AUTHOR_EMAIL: yo@anaalejandra.com # optional
