@@ -161,6 +161,76 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <!-- Waka Generated Statistics-->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 14.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 139 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+🌆 Daytime                133 commits         ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌃 Evening                138 commits         ███████████░░░░░░░░░░░░░░   42.72 % 
+🌙 Night                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Thursday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Friday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        10 repos            ███████████████████░░░░░░   76.92 % 
+Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/jandrana/jandrana/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/05/2024 14:41:42 UTC
 <!--END_SECTION:waka-->
 <!-- Footer -->
 <h6 align="center">Thank you for visiting my GitHub profile! Let's learn and code together. 🚀</h6>
