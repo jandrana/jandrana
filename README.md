@@ -74,13 +74,13 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <!-- Waka Generated Statistics-->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 14.5 kB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2024
+> 🏆 146 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -88,45 +88,6 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-🌆 Daytime                139 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
-🌃 Evening                138 commits         ██████████░░░░░░░░░░░░░░░   41.95 % 
-🌙 Night                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Thursday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 </details><br>
