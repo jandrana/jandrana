@@ -9,6 +9,10 @@
         <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&duration=4000&pause=1000&color=AD75E2&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Jandrana;Welcome+to+my+github!" alt="Typing SVG" />
     </a>
 </div>
+<div align="center" >
+    <a href="https://linkedin.com/in/ana-alejandra-castillejo"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/ana--cast-white?style=for-the-badge&logo=42&logoColor=black"></a>
+</div><br>
 
 <!-- About me code snippet in C-->
 ```c
@@ -37,14 +41,16 @@ int  main(void)
 }
 ```
 <!-- Present (markdown) -->
-### Present 
+### 💡 Present 
+<ul>
 
-🎯 I'm currently a student at [42 Malaga](https://42malaga.com/). My passion lies in coding, from developing challenging C projects to creating engaging web pages for touristic apartments or creating different virtual environments depending on my specific needs.
+🎯 Since September, 2023 I'm a student at [42 Malaga](https://42malaga.com/). My passion lies in coding, from developing challenging C projects to creating engaging web pages for touristic apartments or creating different virtual environments depending on my specific needs.
 
 👩‍💻 In my public repository, [42 Cursus](https://github.com/jandrana/42-Cursus), you can track my progress and check out the work I'm doing during my 42 journey.
 
-📚 Currently, I'm starting to dive into the cybersecurity world through platforms like [Hack The Box](https://www.hackthebox.eu/), and improving my skills in different programming languages with platforms like [Codecademy](https://www.codecademy.com/profiles/jandrana).
+📚 Additionally, I'm starting to dive into the cybersecurity world through platforms like [Hack The Box](https://www.hackthebox.eu/), and improving my skills in different programming languages with platforms like [Codecademy](https://www.codecademy.com/profiles/jandrana).
 
+</ul>
 <!-- Future (markdown)
 ### Future
 🚀 My future plans include improving and diving deeper in all my current skills and learning the basic of new ones like PHP, JavaScript, different fron-end frameworks and exploring the world of API usage to build more dynamic and interactive web applications.
@@ -54,7 +60,7 @@ In the following weeks I will upload and add here my portfolio website, feel fre
 
 <!-- Github Statistics -->
 
-### Github Statistics
+### 📊 Github Statistics
 <!-- GITHUB STATISTICS -->
 <div align="center">
 <!--
@@ -70,7 +76,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 </div>
 
 <br><details>
-  <summary><b>📊 View my WakaTime Statistics</b></summary><br>
+  <summary><b>⏳️ View my WakaTime Statistics</b></summary><br>
 
 <!-- Waka Generated Statistics-->
 <!--START_SECTION:waka-->
@@ -132,7 +138,7 @@ No Activity Tracked This Week
 </details><br>
 
 <details>	
-  <summary><b>🖥 View my Skills and Knowledge</b></summary><br>
+  <summary><b>🧠 View my Skills and Knowledge</b></summary><br>
 
 <!-- Table made with HTML -->
 <table>
@@ -156,9 +162,50 @@ No Activity Tracked This Week
         </td>
     </tr>
     <tr>
+        <td>Operating Systems</td>
+        <td>
+            <img src="https://img.shields.io/badge/Linux-eaaf02?logo=linux&logoColor=fff&style=for-the-badge"
+                alt="Linux">
+            <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"
+                alt="macOS">
+            <img src="https://img.shields.io/badge/parrot-15E0ED?style=for-the-badge&logo=parrot%20security&logoColor=F0F0F0"
+                alt="Parrot">
+            <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge"
+                alt="Debian">
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge"
+                alt="Ubuntu">
+        </td>
+    </tr>
+    <tr>
+        <td>Tools and Platforms</td>
+        <td>
+            <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge"
+                alt="Notion">
+            <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" 
+                alt="Git">
+            <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff&style=for-the-badge" 
+                alt="GitHub">
+            <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge"
+                alt="VirtualBox">
+        </td>
+    </tr>
+        <tr>
+        <td>Project Documentation</td>
+        <td>
+            <img src="https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=fff&style=for-the-badge" 
+                alt="Markdown">
+            <img src="https://img.shields.io/badge/doxygen-002f6e?logo=doxygen&logoColor=fff&style=for-the-badge" 
+                alt="Doxygen">
+            <img src="https://img.shields.io/badge/docstrings-4584b6?logo=read%20the%20docs&logoColor=fff&style=for-the-badge" 
+                alt="Docstrings">
+            <img src="https://img.shields.io/badge/Docsify-4EAA25?logo=docsify&logoColor=fff&style=for-the-badge" 
+                alt="Docsify">
+        </td>
+    </tr>
+    <tr>
         <td>Design</td>
         <td>
-            <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"
+            <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"
                 alt="Adobe Photoshop">
             <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
                 alt="Figma">
@@ -169,29 +216,8 @@ No Activity Tracked This Week
         </td>
     </tr>
     <tr>
-        <td>Docs</td>
+        <td>Web</td>
         <td>
-            <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"
-                alt="Markdown">
-            <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge"
-                alt="Notion">
-        </td>
-    </tr>
-    <tr>
-        <td>VM and SO</td>
-        <td>
-            <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge"
-                alt="VirtualBox">
-            <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge"
-                alt="Debian">
-            <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge"
-                alt="Ubuntu">
-        </td>
-    </tr>
-    <tr>
-        <td>Other</td>
-        <td>
-            <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git">
             <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge"
                 alt="MySQL">
             <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge"
@@ -203,7 +229,7 @@ No Activity Tracked This Week
     <tr>
         <td>Education</td>
         <td>
-            <img src="https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge" alt="42">
+            <a href="https://github.com/jandrana/42-Cursus"><img src="https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge" alt="42"></a>
             <a href="https://www.codecademy.com/profiles/jandrana"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"
                 alt="Codecademy"></a>
             <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge"
