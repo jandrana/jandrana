@@ -80,11 +80,13 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <!-- Waka Generated Statistics-->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 18.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 395 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -119,16 +121,18 @@ Sunday                   63 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        42 mins             █████████████████░░░░░░░░   67.30 % 
+Makefile                 20 mins             ████████░░░░░░░░░░░░░░░░░   32.62 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+minishell                1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 
