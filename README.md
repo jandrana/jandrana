@@ -86,6 +86,8 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 > 📦 34.8 kB Used in GitHub's Storage 
  > 
+> 🏆 205 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -119,20 +121,16 @@ Sunday                   132 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-C                        2 hrs 13 mins       ███████████████████████░░   90.69 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cub3d                    2 hrs 27 mins       █████████████████████████   99.68 % 
-MLX42                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
