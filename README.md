@@ -86,8 +86,6 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 > 📦 38.1 kB Used in GitHub's Storage 
  > 
-> 🏆 344 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
