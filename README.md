@@ -31,9 +31,10 @@ int  main(void)
 
     struct  student my_studies = {
       .is_student = true,
-      .status = {"42 Student", "Codecademy", "HackTheBox", "LeetCode"},
+      .status = {"42 Student", "Datacamp" , "Codecademy", "HackTheBox", "LeetCode"},
       .campus_42 = "Málaga",
       .login_42 = "ana-cast",
+      .datacamp_url = "https://www.datacamp.com/portfolio/jandrana",
       .codecademy_url = "https://www.codecademy.com/profiles/jandrana"
     };
 
@@ -44,11 +45,11 @@ int  main(void)
 ### 💡 Present 
 <ul>
 
-🎯 Since September, 2023 I'm a student at [42 Malaga](https://42malaga.com/). My passion lies in coding, from developing challenging C projects to creating engaging web pages for touristic apartments or creating different virtual environments depending on my specific needs.
+🎯 Since September, 2023 I'm a student at [42 Malaga](https://42malaga.com/). My passion lies in coding, from developing challenging C and C++ projects at 42 to improving my system administration skills, diving into the Data Analysis world for learning AI and machine learning or even creating engaging web pages for touristic apartments while creating tons of virtual environments for specific needs.
 
 👩‍💻 In my public repository, [42 Cursus](https://github.com/jandrana/42-Cursus), you can track my progress and check out the work I'm doing during my 42 journey.
 
-📚 Additionally, I'm starting to dive into the cybersecurity world through platforms like [Hack The Box](https://www.hackthebox.eu/), and improving my skills in different programming languages with platforms like [Codecademy](https://www.codecademy.com/profiles/jandrana).
+📚 Additionally, I love improving my skills in different areas. Focusing on Data Science, more specifically on Machine Learning and AI with [Datacamp](https://www.datacamp.com/portfolio/jandrana) while also learning new programming languages using platforms like [Codecademy](https://www.codecademy.com/profiles/jandrana). Finally, I'm learning the basics of the cybersecurity world through on-site events and the [Hack The Box](https://www.hackthebox.eu/) platform. 
 
 </ul>
 <!-- Future (markdown)
@@ -70,17 +71,18 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
     <img src="https://github.com/jandrana/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
     <img src="https://github.com/jandrana/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
     <img src="https://github.com/jandrana/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-    <a href="https://git.io/streak-stats">
+    <!--<a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=jandrana&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=AD75E2&fire=AD75E2&currStreakNum=AD75E2EB&sideLabels=AD75E2&currStreakLabel=AD75E2&sideNums=AD75E2&dates=424242" alt="GitHub Streak" />
-    </a>
+    </a>-->
 </div>
 
 <br><details>
   <summary><b>⏳️ View my WakaTime Statistics</b></summary><br>
 
+<!--![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)-->
+
 <!-- Waka Generated Statistics-->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -114,7 +116,8 @@ Saturday                 188 commits         █░░░░░░░░░░�
 Sunday                   132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
-
+<!--END_SECTION:waka-->
+<!--
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -132,9 +135,7 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 ```
-
-
-<!--END_SECTION:waka-->
+-->
 </details><br>
 
 <details>	
@@ -151,6 +152,8 @@ No Activity Tracked This Week
         <td>
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
                 alt="C">
+            <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"
+                alt="C++">
             <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"
                 alt="Python">
             <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge"
@@ -179,21 +182,48 @@ No Activity Tracked This Week
     <tr>
         <td>Tools and Platforms</td>
         <td>
-            <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge"
-                alt="Notion">
             <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" 
                 alt="Git">
             <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff&style=for-the-badge" 
                 alt="GitHub">
             <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge"
                 alt="VirtualBox">
+            <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"
+                alt="Docker">
+            <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" 
+                alt="Jira">
+            <img src="https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white" 
+                alt="Clickup">
+            <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" 
+                alt="Trello">
+            <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge"
+                alt="Notion">
+            <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" 
+                alt="Confluence">
         </td>
     </tr>
-        <tr>
+    <tr>
+        <td>Machine Learning, Deep Learning</td>
+        <td>
+            <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
+                alt="NumPy">
+            <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
+                alt="Matplotlib">
+            <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+                alt="Pandas">
+            <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
+                alt="PyTorch">
+            <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
+                alt="scikit-learn">
+            <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"
+                alt="SciPy">
+        </td>
+    </tr>
+    <tr>
         <td>Project Documentation</td>
         <td>
-            <img src="https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=fff&style=for-the-badge" 
-                alt="Markdown">
+            <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" 
+                alt="GitHub Actions">
             <img src="https://img.shields.io/badge/doxygen-002f6e?logo=doxygen&logoColor=fff&style=for-the-badge" 
                 alt="Doxygen">
             <img src="https://img.shields.io/badge/docstrings-4584b6?logo=read%20the%20docs&logoColor=fff&style=for-the-badge" 
@@ -220,16 +250,21 @@ No Activity Tracked This Week
         <td>
             <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge"
                 alt="MySQL">
+            <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge"
+                alt="MariaDB">
             <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge"
                 alt="WordPress">
             <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge"
                 alt="Bootstrap">
+            <img src="https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=fff&style=for-the-badge" 
+                alt="Markdown">
         </td>
     </tr>
     <tr>
         <td>Education</td>
         <td>
             <a href="https://github.com/jandrana/42-Cursus"><img src="https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge" alt="42"></a>
+            <a href="https://www.datacamp.com/portfolio/jandrana"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="Datacamp"></a>
             <a href="https://www.codecademy.com/profiles/jandrana"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"
                 alt="Codecademy"></a>
             <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge"
