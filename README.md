@@ -83,11 +83,13 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <!-- Waka Generated Statistics-->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 38.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 366 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
