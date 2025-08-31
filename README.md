@@ -89,14 +89,51 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 > 📦 38.1 kB Used in GitHub's Storage 
  > 
-> 🏆 366 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+🌆 Daytime                1264 commits        ████████░░░░░░░░░░░░░░░░░   32.21 % 
+🌃 Evening                2481 commits        ████████████████░░░░░░░░░   63.23 % 
+🌙 Night                  156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   674 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Tuesday                  995 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Wednesday                908 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Thursday                 468 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Friday                   559 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Saturday                 188 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Sunday                   132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 <!--
