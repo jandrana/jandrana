@@ -97,6 +97,45 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+🌆 Daytime                1273 commits        ████████░░░░░░░░░░░░░░░░░   32.16 % 
+🌃 Evening                2504 commits        ████████████████░░░░░░░░░   63.26 % 
+🌙 Night                  156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   683 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Tuesday                  1004 commits        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Wednesday                911 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Thursday                 478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Friday                   560 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Saturday                 189 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Sunday                   133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 <!--
