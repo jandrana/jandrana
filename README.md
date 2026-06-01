@@ -83,7 +83,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <!-- Waka Generated Statistics-->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
